@@ -1,0 +1,12 @@
+---
+title: "DummyCode4June10"
+author: "Mackenzie Rich"
+date: "6/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+#This is my note that Mike is making me write out so that I know what I am working on. You know, cause I am an actual dummy......
+
+```
